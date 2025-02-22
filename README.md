@@ -154,5 +154,5 @@ We conclude the control law as the following:
   \rho \left(t\right)=\frac{{\dot{\omega } }_d \left(t\right)+K_p e\left(t\right){+K}_d \frac{\mathrm{de}\left(t\right)}{\mathrm{dt}}+\beta \omega \left(t\right)+\frac{\sigma_0 }{J}\hat{z} +\frac{\sigma_1 }{J}\frac{d\hat{z} }{\mathrm{dt}}-\widehat{f} \left(t\right)}{\left(a_1 |\omega \left(t\right)|+a_2 \right)}
 ```
 
-the values of $\hat{\;z}$ , $\frac{d\hat{\;z} }{\textrm{dt}}$ , and $\widehat{f} \left(t\right)$ are obtained from the nonlinear Luenberger observer
+the values of $\hat{z}$ , $\frac{d\hat{z} }{\textrm{dt}}$ , and $\widehat{f} \left(t\right)$ are obtained from the nonlinear Luenberger observer
 
