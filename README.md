@@ -140,7 +140,9 @@ substitute the propose control input $u\left(t\right)$ to the system dynamic
  -\left({\ddot{\theta} }_d -\ddot{\theta} \right)=\frac{1}{M_d }\left(K_{\mathrm{sd}} e\left(t\right)+C_d \frac{\mathrm{de}\left(t\right)}{\mathrm{dt}}\right)
  ```
 
- $$ M_d \left({\ddot{\theta} }_d -\ddot{\theta} \right)+C_d \left(\dot{\theta_d } -\dot{\theta} \right)+K_{\mathrm{sd}} \left(\theta_d -\theta \right)=0 $$ 
+```math
+  M_d \left({\ddot{\theta} }_d -\ddot{\theta} \right)+C_d \left(\dot{\theta_d } -\dot{\theta} \right)+K_{\mathrm{sd}} \left(\theta_d -\theta \right)=0
+  ```
 
 We conclude the control law as the following:
 
